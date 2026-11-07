@@ -1,0 +1,6 @@
+{
+  "summary": "Kế hoạch kiến trúc và lộ trình triển khai chi tiết cho POWER TREE Smart Dashboard: giao diện trực quan thân thiện học sinh lớp 3, 3 phân khu Solar - Piezo - Quản lý nước, Pin lưu trữ chung, Demo Mode tương tác có khóa an toàn chống chạy khô, và kiến trúc kết nối Arduino qua Web Serial API.",
+  "updatedAt": "2026-11-07T02:29:43.403527582Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
